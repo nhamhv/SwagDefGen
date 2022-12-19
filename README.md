@@ -1,4 +1,6 @@
-# [SwagDefGen](https://roger13.github.io/SwagDefGen)
+# [SwagDefGen](https://github.com/nhamhv/SwagDefGen)
+Fork from [roger13/SwagDefGen](https://roger13.github.io/SwagDefGen)
+
 This is a tool to help building Swagger documentations. It converts JSON request/response mocks to Swagger definitions.
 * Supports all swagger types
 * Detects int32 and int64 formats
@@ -7,6 +9,10 @@ This is a tool to help building Swagger documentations. It converts JSON request
 * Allows nested objects and arrays
 * Supports nullable fields
 * Allows mock values to be added as example in description
+
+## Libraries
+- [json-viewer-js](https://github.com/renhongl/json-viewer-js)
+- 
 
 ## TO-DO List
 * Reflection for detecting reusable definitions
